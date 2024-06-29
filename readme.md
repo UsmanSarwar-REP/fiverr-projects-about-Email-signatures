@@ -1,4 +1,5 @@
 # Introduction to computer
 
-my youtube channel <a href="www.w3school.com">W3SCHOOL</a>
-webiste:<a href="www.youtube.com">click here</a>
+<h3>Basic to Advance level:</h3>
+Web development to learn:<a href="www.w3school.com">W3SCHOOL</a><br>
+Javascript Learn:<a href="www.javascript.info">JavaScript</a>
